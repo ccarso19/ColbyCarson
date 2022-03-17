@@ -1,6 +1,6 @@
 # Hello, My Name is Colby!
 
-*I'm providing you with a sample of my professional resume, if you wish to view the full resume, please visit my online resume on [LinkedIn](https://www.linkedin.com/colbycarson/ "This is my personal profile")*.
+*I'm providing you with a sample of my professional resume, if you wish to view the full resume, please visit my online resume on [LinkedIn](http://www.linkedin.com/colbycarson/ "This is my personal profile")*.
 
 ## About Me
 
